@@ -1,0 +1,2 @@
+# Smart-Irrigation-and-Greenhouse-Automation-System
+An automated smart irrigation and greenhouse control system built with ESP32 and digital soil sensors. Enables real-time soil moisture tracking, automated relay switching, and remote valve control to optimize water efficiency. Developed to simplify greenhouse management through reliable sensor monitoring, custom hardware, and clean Android control.
