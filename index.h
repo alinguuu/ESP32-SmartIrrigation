@@ -430,7 +430,7 @@ const char MAIN_page[] PROGMEM = R"rawliteral(
 
     // Download APK directly from GitHub repository raw release path
     function downloadAPK() {
-      window.location.href = "https://raw.githubusercontent.com/alinguuu/ESP32-SmartIrrigation/main/app-release.apk";
+      window.location.href = "https://raw.githubusercontent.com/alinguuu/ESP32-SmartIrrigation/main/ESP32-SmartIrrigation_v1.0.apk";
     }
 
     window.addEventListener('beforeinstallprompt', (e) => {
