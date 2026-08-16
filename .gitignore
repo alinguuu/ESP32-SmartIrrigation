@@ -1,20 +1,20 @@
-# IDE ve Editör Geçici Dosyaları (VS Code, Arduino IDE, Android Studio)
-.vscode/
-.idea/
-*.swp
-*~
-*.bak
-
-# Derleme ve Önbellek Çıktıları
-build/
+# Electronics & Embedded Build Directories
 .pio/
-.esphome/
-*.elf
+.vscode/
+build/
 *.bin
+*.elf
 *.hex
-*.o
 
-# İşletim Sistemi Sistem Dosyaları
+# Configuration & Sensitive Files
+config.h
+secrets.h
+*.env
+
+# Operating System Files
 .DS_Store
 Thumbs.db
-desktop.ini
+
+# Temporary & Log Files
+*.log
+*.tmp
