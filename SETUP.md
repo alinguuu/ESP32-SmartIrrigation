@@ -107,11 +107,11 @@ If you are using a self-hosted server or direct IP, update the APK using **APK E
 ## 🖨️ 3D Enclosure Assembly & Field Deployment
 
 ### Printing Guidelines
-* **Material:** PETG or ABS (UV and weather resistant for outdoor environments).
-* **Layer Height:** `0.2mm` | **Infill:** `20%-30% Grid`.
+* **Material:** PETG or ASA (UV and weather resistant for outdoor environments).
+* **Layer Height:** `0.2mm`or `0.12mm`| **Infill:** `20%-30% Gyroid`.
 
 ### Assembly Steps
-1. **SBC Housing:** Mount Banana Pi Pro A20 in `cad-bananapi-case-bottom-hex.stl` and secure a 5V fan on `cad-bananapi-case-top-fan.stl`.
-2. **Soil Probe Protection:** Insert soil probes into `cad-soil-sensor-casing.stl` and apply silicone sealant around `cad-soil-sensor-cap.stl`.
-3. **Cable Management:** Route 12V valve wiring through `cad-cable-junction-box-large.stl` using green terminal blocks to prevent short circuits.
-4. **Main Chassis:** Secure relay modules and power converters to `cad-main-mounting-plate.stl` inside the main electrical box.
+1. **SBC Housing:** Mount Banana Pi Pro A20 in `bananapi-case-bottom-fan.stl` and secure a 5V fan on `bananapi-case-top.stl`.
+2. **Soil Probe Protection:** Insert soil probes into `soil-sensor-casing.stl` and apply silicone sealant around `soil-sensor-cap.stl`.
+3. **Cable Management:** Route 12V valve wiring through `cable-junction-box-large.stl` using green terminal blocks to prevent short circuits.
+4. **Main Chassis:** Secure relay modules and power converters to `main-mounting-plate.stl` inside the main electrical box.
