@@ -2,7 +2,13 @@
 
 An industrial-grade, fully integrated smart irrigation and climate automation ecosystem powered by the ESP32. Designed for real-world agricultural, greenhouse, and field applications, this platform unites multi-zone solenoid valve control, digital environmental telemetry, custom 3D CAD/STL hardware enclosures, addressable visual status indicators, and TOTP 2FA security into a unified IoT solution.
 
-![Hardware Wiring Diagram](assets/hardware-diagram.png)
+<details>
+  <summary>🔍 Click to View Full Hardware Wiring Diagram</summary>
+  <br>
+  <p align="center">
+    <img src="assets/hardware-diagram.png" alt="Hardware Wiring Diagram" width="100%">
+  </p>
+</details>
 
 ---
 
