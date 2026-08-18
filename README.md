@@ -77,6 +77,11 @@ For detailed hardware pin mappings, step-by-step firmware compiling, library dep
 
 ---
 
+> 🇹🇷 **Türkçe Makale & Detaylı İnceleme**  
+> Bu projenin Türkçe kurulum rehberine, donanım mimarisine ve saha tecrübelerine [utkudsoz.com.tr](https://utkudsoz.com.tr/esp32-s3-ile-endustriyel-akilli-sulama-ve-iklim-otomasyonu/) üzerinden ulaşabilirsiniz.
+
+---
+
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
